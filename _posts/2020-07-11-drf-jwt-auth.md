@@ -2,6 +2,7 @@
 title:  "Django REST Framework & JWT Authentication"
 layout: post
 tags: python django drf jwt
+excerpt_separator: <!--more-->
 ---
 
 ![Django REST Framework](https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png)
