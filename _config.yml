@@ -1,6 +1,6 @@
 title: "Hephest's Blog"
 author: "Vladyslav Asaievych"
-description: "Theme by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+description: "Blog about Software Development.<br><br>Theme by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -28,7 +28,7 @@ navigation:
 external:                    # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hephest1904@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Hephest"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vladislav-asaievich/"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/vladislav-asaievich/"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
