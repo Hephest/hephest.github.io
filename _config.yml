@@ -3,7 +3,7 @@ author: "Vladyslav Asaievych"
 description: "Blog about Software Development.<br><br>Theme by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: <!--more-->
 date_format: "%B %d, %Y"
 
 # Layout

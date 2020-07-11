@@ -1,11 +1,14 @@
 ---
 title:  "Django REST Framework & JWT Authentication"
 layout: post
+tags: python django drf jwt
 ---
 
 ![Django REST Framework](https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png)
 
 Simple auth system w/ user registration. Powered by `djangorestframework-simplejwt` lib.
+
+<!--more-->
 
 ## Table of Contents
 
